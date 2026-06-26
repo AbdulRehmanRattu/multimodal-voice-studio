@@ -1,0 +1,18 @@
+# Local Environment Variables
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python environment & cache files
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Generated Media (excluding code and configuration)
+*.mp3
+*.wav
